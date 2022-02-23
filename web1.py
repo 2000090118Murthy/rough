@@ -4,3 +4,5 @@ if a%b==0 :
     print(a,'is divisible by',b)
 else:
     print('Not divisible')
+    
+print('Successfully exceuted')
